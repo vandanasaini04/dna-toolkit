@@ -1,6 +1,6 @@
 # DNA Toolkit 
 
-A beginner bioinformatics project written in Python.
+Beginner bioinformatics toolkit for DNA sequence analysis using Python.
 
 ## Features
 
